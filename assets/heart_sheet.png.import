@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://j7iitgw1n0dk"
-path="res://.godot/imported/Binky Idle 1.png-44e7e1400ea4e94791a20f9c1484d03a.ctex"
+uid="uid://c0jtffiojmw5y"
+path="res://.godot/imported/heart_sheet.png-049012287fe55418009cee60c28b9a47.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Binky Idle 1.png"
-dest_files=["res://.godot/imported/Binky Idle 1.png-44e7e1400ea4e94791a20f9c1484d03a.ctex"]
+source_file="res://new folder/heart_sheet.png"
+dest_files=["res://.godot/imported/heart_sheet.png-049012287fe55418009cee60c28b9a47.ctex"]
 
 [params]
 

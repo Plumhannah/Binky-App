@@ -17,6 +17,8 @@ config/icon="uid://br1d8246eng8a"
 
 [display]
 
+window/size/viewport_width=200
+window/size/viewport_height=160
 window/size/borderless=true
 window/size/always_on_top=true
 window/size/transparent=true
@@ -31,4 +33,5 @@ window/per_pixel_transparency/allowed=true
 [rendering]
 
 rendering_device/driver.windows="d3d12"
+textures/vram_compression/import_etc2_astc=true
 viewport/transparent_background=true

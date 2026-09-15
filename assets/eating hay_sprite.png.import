@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://br1d8246eng8a"
-path="res://.godot/imported/Bink4.png-f70065dcf327e58f1ed5343b8f9d09c5.ctex"
+uid="uid://dii4ofrgb4mkg"
+path="res://.godot/imported/eating hay_sprite.png-3f3e4a752630f407ce4d67af4ad951bc.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Bink4.png"
-dest_files=["res://.godot/imported/Bink4.png-f70065dcf327e58f1ed5343b8f9d09c5.ctex"]
+source_file="res://new folder/eating hay_sprite.png"
+dest_files=["res://.godot/imported/eating hay_sprite.png-3f3e4a752630f407ce4d67af4ad951bc.ctex"]
 
 [params]
 

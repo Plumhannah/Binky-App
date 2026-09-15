@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://b5di1youvjvtq"
-path="res://.godot/imported/binky Idle.png-bcf345cdf3ad9f95f142cb3dbe1321d2.ctex"
+uid="uid://d0wnqks7jdlws"
+path="res://.godot/imported/carrot.png-171ad7d61de94fb3db98a3fc85064644.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://binky Idle.png"
-dest_files=["res://.godot/imported/binky Idle.png-bcf345cdf3ad9f95f142cb3dbe1321d2.ctex"]
+source_file="res://new folder/carrot.png"
+dest_files=["res://.godot/imported/carrot.png-171ad7d61de94fb3db98a3fc85064644.ctex"]
 
 [params]
 
